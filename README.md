@@ -1,7 +1,7 @@
 ### Hey, I'm Tara 👋🏼
 
 - 🗳 Software engineer in civic tech
-- 📝 Learning cloud dev
+- 📝 Learning Clojure
 - 🙋🏽‍♀️ She/her
 
 
