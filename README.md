@@ -1,8 +1,8 @@
 ### Hey, I'm Tara 👋🏼
 
-- 🗳 Software engineer in civic tech
-- 📝 Learning cloud dev
-- 🙋🏽‍♀️ She/her
+- 🗳 Currently: Software engineer in civic tech
+- 📝 Learning: AWS cloud dev
+- 🙋🏽‍♀️ Pronouns: She/her
 
 
 <!--
