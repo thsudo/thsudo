@@ -1,7 +1,7 @@
 ### Hey, I'm Tara 👋🏼
 
-- 🗳 Currently: Software engineer in civic tech
-- 📝 Learning: AWS cloud dev
+- 🏘 Currently: Software engineer in proptech
+- 📝 Learning: Spanish
 - 🙋🏽‍♀️ Pronouns: She/her
 
 
