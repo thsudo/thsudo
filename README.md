@@ -1,6 +1,6 @@
 ### Hey, I'm Tara 👋🏼
 
-- 🏘 Currently: Software engineer in proptech
+- 🏘 Currently: Software engineer in fintech
 - 📝 Learning: Spanish
 - 🙋🏽‍♀️ Pronouns: She/her
 
