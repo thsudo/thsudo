@@ -1,7 +1,7 @@
 ### Hey, I'm Tara 👋🏼
 
-- 🏘 Currently: Software engineer in fintech
-- 📝 Learning: Spanish
+- 🏘 Currently: Software engineer
+- 📝 Writing: Node.js
 - 🙋🏽‍♀️ Pronouns: She/her
 
 
