@@ -1,8 +1,10 @@
 ### Hey, I'm Tara 👋🏼
 
-- 🏘 Currently: Software engineer
-- 📝 Writing: Node.js
+- 👩🏽‍💻 Role: Backend software engineer (with full-stack experience)
+- 🧩 Interests: Node.js, APIs, system architecture (especially at scale), and collaborating with others
 - 🙋🏽‍♀️ Pronouns: She/her
+
+[![GitHub Streak](https://github-streak-2022.herokuapp.com?user=thsudo&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
 <!--
