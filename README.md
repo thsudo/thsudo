@@ -4,7 +4,9 @@
 - 🧩 Interests: Node.js, APIs, and system architecture (especially at scale)
 - 🙋🏽‍♀️ Pronouns: She/her
 
+<!-- 
 [![GitHub Streak](https://github-streak-2022.herokuapp.com?user=thsudo&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+-->
 
 
 <!--
