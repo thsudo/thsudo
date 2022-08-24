@@ -1,7 +1,7 @@
 ### Hey, I'm Tara 👋🏼
 
-- 👩🏽‍💻 Role: Backend software engineer (with full-stack experience)
-- 🧩 Interests: Node.js, REST APIs, and system architecture (especially at scale)
+- 👩🏽‍💻 Role: Backend software engineer
+- 🧩 Interests: Node.js, REST APIs, and system architecture
 - 🙋🏽‍♀️ Pronouns: She/her
 
 <!-- 
