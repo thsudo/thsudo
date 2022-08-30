@@ -1,7 +1,6 @@
 ### Hey, I'm Tara 👋🏼
 
-- 🔭 Currently: SWE @ Cash App
-- 🌱 Language: Kotlin
+- 👩🏽‍💻 Role: Backend Engineer
 - 🧩 Interests: Node.js, REST APIs, and system architecture
 - 🙋🏽‍♀️ Pronouns: She/her
 
