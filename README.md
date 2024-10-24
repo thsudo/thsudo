@@ -1,7 +1,7 @@
 ### Hey, I'm Tara 👋🏼
 
-- 👩🏽‍💻 Role: Backend Engineer
-- 🧩 Interests: Node.js, REST APIs, and system architecture
+- 👩🏽‍💻 Role: Server Engineer
+- 🥞 Currently: System design, Kotlin, TypeScript 
 - 🙋🏽‍♀️ Pronouns: She/her
 
 <!-- 
