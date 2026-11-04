@@ -1,6 +1,6 @@
 ### Hey, I'm Tara 👋🏼
 
-- 👩🏽‍💻 Role: Server Engineer
+- 👩🏽‍💻 Role: Staff SWE
 - 🥞 Currently: System design, Kotlin, TypeScript 
 - 🙋🏽‍♀️ Pronouns: She/her
 
